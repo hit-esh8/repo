@@ -1,1 +1,1 @@
-<? echo 'thi sis a good idea'; ?>
+<? echo 'thi sis a bad idea'; ?>
