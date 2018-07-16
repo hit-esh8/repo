@@ -1,1 +1,1 @@
-<? echo 'i made a change'; ?>
+<? echo 'thi sis a good idea'; ?>
